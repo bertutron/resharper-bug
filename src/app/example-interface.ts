@@ -1,3 +1,3 @@
-interface Test {
+export interface Test {
     test(): void
 }
